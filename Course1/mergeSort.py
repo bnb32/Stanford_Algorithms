@@ -35,8 +35,8 @@ def mergeSort(a):
 
         return merge(mergeSort(left),mergeSort(right))
 
-a=[1,3,2,10,8,5,11,6,13]
+#a=[1,3,2,10,8,5,11,6,13]
 
-print(mergeSort(a))
+#print(mergeSort(a))
 
 #print(merge([1,3],[2,4]))
